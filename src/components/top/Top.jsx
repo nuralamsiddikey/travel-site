@@ -1,7 +1,8 @@
 import React from 'react'
 import Box from '@mui/material/Box';
-import logo from '../assets/logo.png'
+import logo from '../../assets/logo.png'
 import SegmentIcon from '@mui/icons-material/Segment';
+import "./top.css"
 
 
 export default function Top() {

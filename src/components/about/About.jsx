@@ -1,8 +1,8 @@
 import React from 'react'
-import '../styles/about.css'
+import './about.css'
 import Box from '@mui/material/Box'
 import Checkbox from '@mui/material/Checkbox';
-import img from '../assets/about.jpg'
+import img from '../../assets/about.jpg'
 
 export default function About() {
     return (

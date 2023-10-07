@@ -1,7 +1,7 @@
 import './App.css';
-import Top from './components/Top';
-import About from './components/About';
-import Service from './components/Service';
+import Top from './components/top/Top';
+import About from './components/about/About';
+import Service from './components/service/Service';
 
 function App() {
   return (
