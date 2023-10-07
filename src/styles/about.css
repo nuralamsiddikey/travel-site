@@ -1,0 +1,12 @@
+.about_container {
+    background-color: black;
+    color: white;
+    padding: 40px 0;
+    background-image: url();
+}
+
+.line{
+    height: 50vh;
+    width: 5px;
+    background-color: #0295A1
+}
